@@ -1,0 +1,29 @@
+﻿Build started 31.10.2016 11:12:16.
+     1>Project "D:\ВУЗ\2 курс\ООП\Лабораторные работы 5 вариант\4 лаба\OOPLab04_05\OOPLab04_05\OOPLab04_05.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OOPLab04_05.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Computer.cpp OOPLab04_05.cpp Printer.cpp Product.cpp Scanner.cpp Tablet.cpp Technics.cpp
+         Computer.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Technics.cpp
+         Tablet.cpp
+         Scanner.cpp
+         Product.cpp
+         Printer.cpp
+         OOPLab04_05.cpp
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ВУЗ\2 курс\ООП\Лабораторные работы 5 вариант\4 лаба\OOPLab04_05\Debug\OOPLab04_05.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ВУЗ\2 курс\ООП\Лабораторные работы 5 вариант\4 лаба\OOPLab04_05\Debug\OOPLab04_05.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ВУЗ\2 курс\ООП\Лабораторные работы 5 вариант\4 лаба\OOPLab04_05\Debug\OOPLab04_05.lib" /MACHINE:X86 Debug\Computer.obj
+         Debug\Creator.obj
+         Debug\OOPLab04_05.obj
+         Debug\Printer.obj
+         Debug\Product.obj
+         Debug\Scanner.obj
+         Debug\stdafx.obj
+         Debug\Tablet.obj
+         Debug\Technics.obj
+         OOPLab04_05.vcxproj -> D:\ВУЗ\2 курс\ООП\Лабораторные работы 5 вариант\4 лаба\OOPLab04_05\Debug\OOPLab04_05.exe
+     1>Done Building Project "D:\ВУЗ\2 курс\ООП\Лабораторные работы 5 вариант\4 лаба\OOPLab04_05\OOPLab04_05\OOPLab04_05.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.28
